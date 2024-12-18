@@ -4,7 +4,7 @@ import base64
 
 
 TOKEN = "github_personal_token"
-REPO = "username/repo"
+REPO = "sid1234545/travis1"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
